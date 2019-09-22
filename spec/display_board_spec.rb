@@ -1,4 +1,4 @@
-board = [" "," "," "," "," "," "," "," "," "]
+board = ["X"," "," ","X"," "," "," ","O"," "]
 
 def dispaly_board(board)
   puts " {bord[0]} , {board[1]} , {board[2] }"
